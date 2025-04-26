@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Professional Freelance Writer & Coder</title>
+  <style>
+    /* General Styles */
+    body {
+      font-family: 'Inter', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f9f9f9;
+      color: #333;
+      line-height: 1.6;
+    }
+    a {
+      text-decoration: none;
+      color: inherit;
+    }
+    h1, h2, h3 {
+      font-family: 'Poppins', sans-serif;
+    }
+
+    /* Header */
+    header {
+      background: linear-gradient(135deg, #1e3c72, #2a5298);
+      color: #fff;
+      padding: 60px 20px;
+      text-align: center;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    }
+    header h1 {
+      font-size: 3.5em;
+      margin: 0;
+      letter-spacing: 1.5px;
+    }
+    header p {
+      font-size: 1.3em;
+      margin-top: 15px;
+      font-style: italic;
+      color: #d1d1d1;
+    }
+
+    /* Navigation */
+    nav {
+      background-color: #1e3c72;
+      padding: 15px 0;
+      text-align: center;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    }
+    nav a {
+      color: #f9f9f9;
+      margin: 0 15px;
+      font-size: 1.1em;
+      font-weight: 500;
+      transition: color 0.3s ease;
+    }
+    nav a:hover {
+      color: #ffcc00;
+    }
+
+    /* Main Content */
+    main {
+      max-width: 1200px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    section {
+      margin-bottom: 50px;
+    }
+    h2 {
+      font-size: 2.2em;
+      color: #1e3c72;
+      border-bottom: 3px solid #ddd;
+      padding-bottom: 10px;
+    }
+    p, li {
+      font-size: 1.15em;
+      margin: 15px 0;
+      line-height: 1.8;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 20px auto;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+
+    /* Footer */
+    footer {
+      background-color: #1e3c72;
+      color: #fff;
+      text-align: center;
+      padding: 30px 20px;
+      margin-top: 60px;
+      font-size: 0.9em;
+    }
+
+    /* WhatsApp Button */
+    .whatsapp {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 20px;
+      background-color: #25d366;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: bold;
+      font-size: 1.1em;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      transition: background-color 0.3s ease, transform 0.2s ease;
+    }
+    .whatsapp:hover {
+      background-color: #1ebe5b;
+      transform: scale(1.05);
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Your Professional Freelance Writer & Developer</h1>
+    <p>Expert in Words, Master of Code – Bringing Your Vision to Life</p>
+  </header>
+
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#portfolio">Portfolio</a>
+    <a href="#testimonials">Testimonials</a>
+    <a href="#blog">Blog</a>
+    <a href="#chat-email">Chat & Email</a>
+    <a href="#coding">Coding</a>
+    <a href="#pricing">Pricing</a>
+    <a href="#faq">FAQs</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <main>
+    <section id="home">
+      <h2>Welcome</h2>
+      <p>You're not just looking for a writer or a coder—you’re looking for someone who understands people, brands, storytelling, and the logic behind the screen. I offer world-class writing, top-level communication, and full-stack coding experience in one place.</p>
+    </section>
+
+    <section id="about">
+      <h2>About Me</h2>
+      <p>My name is MINOHERISOA Fanantenana Bonaventure Samason, and I am from Madagascar. I graduated from SHARDA University in India with a degree in Computer Science. With a lifelong passion for storytelling and technology, I bridge the gap between creative writing and technical expertise.</p>
+      <p>I have years of experience in both creative content and programming. From designing user-friendly websites to writing email campaigns that convert—I help businesses speak better and build smarter.</p>
+    </section>
+
+    <section id="services">
+      <h2>What I Offer</h2>
+      <ul>
+        <li>Creative Writing & Copywriting</li>
+        <li>Blog Posts & SEO Content</li>
+        <li>Email Campaigns & Newsletters</li>
+        <li>Live Chat Support & Scripting</li>
+        <li>Frontend & Backend Web Development</li>
+        <li>UI/UX Design and Optimization</li>
+        <li>WordPress, JavaScript, Python, HTML/CSS, PHP, React & more</li>
+        <li>Debugging, Performance Optimization, API Integration</li>
+      </ul>
+    </section>
+
+    <section id="portfolio">
+      <h2>Portfolio</h2>
+      <p>Coming soon: View live writing samples, code projects, and UI demos that demonstrate my range and mastery.</p>
+    </section>
+
+    <section id="testimonials">
+      <h2>What Clients Say</h2>
+      <p><em>"She rebuilt our site and rewrote the homepage copy—our bounce rate dropped by 40% and leads went up!"</em></p>
+      <p><em>"From scripts to software, she's got it all covered. Reliable, smart, creative, and friendly."</em></p>
+    </section>
+
+    <section id="blog">
+      <h2>From the Blog</h2>
+      <p>Insights on creativity, web dev, freelancing, and communication—launching soon.</p>
+    </section>
+
+    <section id="chat-email">
+      <h2>Email & Live Chat</h2>
+      <p>Automated sequences, human-style replies, and branded messaging for your inbox, CRM, or chat widget. Every line is purposeful, personal, and written to build trust.</p>
+    </section>
+
+    <section id="coding">
+      <h2>Coding Expertise</h2>
+      <p>With a Master’s in Computer Science, I bring logic, structure, and modern technology into everything I build. I code responsive websites, build apps, and troubleshoot with ease.</p>
+      <ul>
+        <li>Full Website Development (HTML, CSS, JS, PHP)</li>
+        <li>Single Page Apps (React, Vue, Next.js)</li>
+        <li>Database Work (MySQL, Firebase)</li>
+        <li>CMS Platforms (WordPress, Ghost)</li>
+        <li>Form Handling, REST APIs, Authentication</li>
+        <li>Performance Audits and SEO Best Practices</li>
+      </ul>
+      <img src="https://via.placeholder.com/800x400?text=Computer+Coding" alt="A computer with code on the screen">
+    </section>
+
+    <section id="pricing">
+      <h2>Pricing</h2>
+      <p>Custom quotes for unique projects. Get premium quality without agency prices. Honest rates for exceptional work.</p>
+    </section>
+
+    <section id="faq">
+      <h2>FAQs</h2>
+      <p><strong>Q:</strong> What if I need both writing and development?<br>
+      <strong>A:</strong> Perfect—I specialize in both. Let’s create a site or campaign that’s beautiful inside and out.</p>
+    </section>
+
+    <section id="contact">
+      <h2>Let’s Talk</h2>
+      <p>Ready to level up your brand? Want polished writing or a custom-built site? Reach out for fast replies, clear answers, and zero pressure.</p>
+      <p>📱 Message me on WhatsApp:<br>
+      <a class="whatsapp" href="https://wa.me/14388150331?text=Hi%20there!%20I'm%20interested%20in%20your%20freelance%20services%20and%20would%20love%20to%20chat." target="_blank">Chat with me on WhatsApp</a></p>
+      <p>Email and form coming soon!</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Your Freelance Writer & Coder. All rights reserved. Made with care, code, and creativity.</p>
+  </footer>
+</body>
+</html>
